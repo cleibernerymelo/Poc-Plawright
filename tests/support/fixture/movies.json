@@ -1,0 +1,84 @@
+{
+  "movies": {
+    "A Noite dos Mortos-Vivos": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "Um grupo de pessoas se refugia em uma casa isolada enquanto mortos-vivos tomam conta da região.",
+      "company": "Latent Image",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "https://example.com/covers/noite-dos-mortos-vivos.jpg"
+    },
+    "Extermínio": {
+      "title": "Extermínio",
+      "overview": "Um vírus altamente contagioso transforma humanos em criaturas violentas e sedentas por sangue.",
+      "company": "DNA Films",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "https://example.com/covers/exterminio.jpg"
+    },
+    "Guerra Mundial Z": {
+      "title": "Guerra Mundial Z",
+      "overview": "Um ex-investigador da ONU tenta impedir uma pandemia global de zumbis que ameaça a humanidade.",
+      "company": "Plan B Entertainment",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "https://example.com/covers/guerra-mundial-z.jpg"
+    },
+    "Resident Evil: O Hóspede Maldito": {
+      "title": "Resident Evil: O Hóspede Maldito",
+      "overview": "Uma equipe de elite investiga um laboratório subterrâneo após o vazamento de um vírus mortal.",
+      "company": "Constantin Film",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "https://example.com/covers/resident-evil.jpg"
+    },
+    "Zumbilândia": {
+      "title": "Zumbilândia",
+      "overview": "Um grupo improvável de sobreviventes cria regras para sobreviver em um mundo tomado por zumbis.",
+      "company": "Columbia Pictures",
+      "release_year": 2009,
+      "featured": false,
+      "cover": "https://example.com/covers/zumbilandia.jpg"
+    },
+    "Todo Mundo Quase Morto": {
+      "title": "Todo Mundo Quase Morto",
+      "overview": "Uma comédia britânica sobre um homem tentando salvar seus amigos durante um apocalipse zumbi.",
+      "company": "Working Title Films",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "https://example.com/covers/todo-mundo-quase-morto.jpg"
+    },
+    "O Exército dos Mortos": {
+      "title": "O Exército dos Mortos",
+      "overview": "Um grupo de mercenários tenta realizar um assalto em Las Vegas após um surto zumbi.",
+      "company": "The Stone Quarry",
+      "release_year": 2021,
+      "featured": false,
+      "cover": "https://example.com/covers/exercito-dos-mortos.jpg"
+    },
+    "Madrugada dos Mortos": {
+      "title": "Madrugada dos Mortos",
+      "overview": "Sobreviventes se refugiam em um shopping center enquanto o mundo é devastado por zumbis.",
+      "company": "Strike Entertainment",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "https://example.com/covers/madrugada-dos-mortos.jpg"
+    },
+    "Train to Busan": {
+      "title": "Train to Busan",
+      "overview": "Passageiros de um trem tentam sobreviver quando um surto zumbi atinge a Coreia do Sul.",
+      "company": "Next Entertainment World",
+      "release_year": 2016,
+      "featured": false,
+      "cover": "https://example.com/covers/train-to-busan.jpg"
+    },
+    "The Girl with All the Gifts": {
+      "title": "The Girl with All the Gifts",
+      "overview": "Uma menina imune a um fungo zumbi pode ser a chave para a sobrevivência da humanidade.",
+      "company": "Altitude Film Entertainment",
+      "release_year": 2016,
+      "featured": false,
+      "cover": "https://example.com/covers/the-girl-with-all-the-gifts.jpg"
+    }
+  }
+}
